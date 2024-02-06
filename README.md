@@ -27,9 +27,3 @@ To train the model, simply run the provided Python script after setting up the n
 - Matplotlib
 - scikit-learn
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- The dataset used in this project is sourced from [provide_dataset_source_here](#) (replace `provide_dataset_source_here` with the actual source).
-- Portions of the code may be adapted from open-source projects or tutorials, with appropriate credits given to the original authors.
