@@ -1,6 +1,4 @@
-
-
-# Deepfake Detection Model
+# Identification-of-Artificially-Generated-Images
 
 ## Overview
 This repository contains code for building and training a deep learning model to detect deepfake images. The model is trained to classify images as either real or fake, with a focus on identifying deepfake content.
